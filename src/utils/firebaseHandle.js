@@ -1,6 +1,11 @@
-import * as firebase from 'firebase'
-import firebaseConfig from '../../config'
-class firebaseHandle{
-init(){firebase.initializeApp(config)}
-getInstance(){return firebase}}
-export default new firebaseHandle()
+import firebase from "firebase";
+import firebaseConfig from "../../config";
+class firebaseHandle {
+  init() {
+    firebase.initializeApp(firebaseConfig);
+  }
+  getInstance() {
+    return firebase;
+  }
+}
+export default new firebaseHandle();
