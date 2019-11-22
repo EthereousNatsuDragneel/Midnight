@@ -9,10 +9,11 @@ setUser(temp);},[user]);
 const loginHandle=useCallback(async ()=>{
 try{
 const responseData=await firebaseHandle.getInstance().auth().signInWithEmailAndPassword(user.email,user.password);
-console.log("Response Data:",responseData);}catch(error){setErr(error)
+console.log("Response Data:",responseData);}catch(error){setErr(error.message)
 console.log(error);}},[user.email,user.password]);
 
-const goToForgot=useCallback(()=>{navigation.navigate("forgot")},[])
+const goToForgot=useCallback(()=>{
+navigation.navigate("forgot")},[])
 const goToSignup=useCallback(()=>{
 navigation.navigate("signup");},[]);
 return{err,setErr,user,updateUser,loginHandle,goToSignup,goToForgot};}
