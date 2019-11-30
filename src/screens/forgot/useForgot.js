@@ -6,7 +6,8 @@ const updateUser=useCallback((keyname,value)=>{
 const temp={...user,[keyname]:value}
 setUser(temp)},[user])
 const sendMail=useCallback(async ()=>{try{
-const responseData=await firebaseHandle.getInstance().auth().sendPasswordResetEmail(user.email)}
+const responseData=await firebaseHandle.getInstance().auth().sendPasswordResetEmail(user.email)
+setErr("An email has been sent to reset your password")}
 catch(error){console.log(error)}},[user.email])
 const passwordResetHandle=useCallback(async ()=>{try{
 const responseData=await firebaseHandle.getInstance().auth().confirmPasswordReset(user.code,user.nPassword)}
