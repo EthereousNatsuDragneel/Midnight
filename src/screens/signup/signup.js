@@ -14,7 +14,7 @@ return(<View style={{flex:1,justifyContent:"center",alignItems:"center",backgrou
 <TextInput style={{backgroundColor:"navy",color:"yellow"}} value={user.cnfPassword} placeholderTextColor="yellow" placeholder="Confirm Password:" onChangeText={text=>updateUser("cnfPassword",text)} autoCapitalize="none" secureTextEntry={show}/>
 <TouchableOpacity onPress={toggle}><Text style={{color:"yellow"}}>Show/hide password fields</Text></TouchableOpacity>
 <TouchableOpacity onPress={()=>{if(user.name==""){setErr("You must provide your name")}
-else if(user.password===user.cnfPassword){signupHandle}
+else if(user.password===user.cnfPassword){signupHandle()}
 else{setErr("The passwords don't match!")}}}><Text style={{color:"yellow"}}>Sign Up</Text></TouchableOpacity>
 <Text style={{fontSize:40,color:"yellow"}}>MIDNIGHT</Text></View>);}
 export default signup;

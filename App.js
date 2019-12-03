@@ -2,6 +2,7 @@ import React, { Fragment, useEffect, useCallback } from "react";
 import { StatusBar } from "react-native";
 import firebaseHandle from "./src/utils/firebaseHandle";
 import AppSwitchNavigator from "./src/navigation/AppSwitchNavigator";
+import Datastore from './src/utils/datastore'
 import NavigationService from "./src/utils/NavigationService";
 function App() {
   useEffect(() => {
@@ -13,6 +14,7 @@ function App() {
           console.log(user)
         if (user) {
           console.log("Logged in");
+          Datastore.writeItem("email",user.email)
           NavigationService.navigate("home");
         } else {
           console.log("Not logged in");

@@ -9,7 +9,7 @@ const temp={ ...user, [keyname]: value };
 setUser(temp);},[user]);
 const signupHandle=useCallback(async ()=>{
 try{const responseData=await firebaseHandle.getInstance().auth().createUserWithEmailAndPassword(user.email, user.password);
-db.add({Name:user.name,email:user.email,password:user.password})
+db.add({Name:user.name,email:user.email,password:user.password,lifelines:{doubleDip:1,fifty:1,goWithTheCrowd:1}})
 const userj=await firebaseHandle.getInstance().auth().currentUser;
 userj.sendEmailVerification().then(function(){
 console.log("Email sent")}).catch(function(error){setErr(error.message)
