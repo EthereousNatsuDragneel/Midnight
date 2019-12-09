@@ -15,7 +15,7 @@ function App() {
         if (user) {
           console.log("Logged in");
           Datastore.writeItem("email",user.email)
-          NavigationService.navigate("home");
+          NavigationService.navigate("inside");
         } else {
           console.log("Not logged in");
           NavigationService.navigate("login");
