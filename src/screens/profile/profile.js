@@ -1,15 +1,17 @@
 import React, {useState} from 'react'
 import {TouchableOpacity,Text, View} from 'react-native'
 import useProfile from './useProfile'
-function Profile(props){const {userData,signOut}=useProfile(props)
+function Profile(props){const {getUserData,signOut}=useProfile(props)
+const [userData,setUserData]=useState(null)
+async ()=>await getUserData()
 if(userData==null){return(<View style={{flex:1,alignItems:"center",justifyContent:"center",backgroundColor:"navy"}}>
-<Text style={{color:"yellow",fontSize:70}}>LOADING</Text>
+<Text style={{color:"yellow",fontSize:70,textAlign:"center"}}>LOADING</Text>
 </View>)}
 return(<View style={{flex:1,backgroundColor:"navy",alignItems:"center",justifyContent:"center"}}>
 <Text style={{color:"yellow",fontSize:30,textAlign:"center"}}>My Profile</Text>
 <Text style={{textAlign:"center",color:"yellow"}}>Name: {userData.name} {"\n"}
 Email: {userData.email} {"\n"}
-Lifelines {"\n"}
+Lifelines: {"\n"}
 Double Dip: {userData.lifelines.doubleDip} {"\n"}
 50 50: {userData.lifelines.fifty} {"\n"}
 Go With the Crowd: {userData.lifelines.goWithTheCrowd}</Text>
