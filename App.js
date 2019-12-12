@@ -1,11 +1,10 @@
-import React, { Fragment, useEffect, useCallback } from "react";
+import React, { Fragment, useMemo, useEffect, useCallback } from "react";
 import { StatusBar } from "react-native";
 import firebaseHandle from "./src/utils/firebaseHandle";
 import AppSwitchNavigator from "./src/navigation/AppSwitchNavigator";
 import Datastore from './src/utils/datastore'
 import NavigationService from "./src/utils/NavigationService";
 function App() {
-  const db=useMemo(()=>firebaseHandle.getDBInstance("users"),[])
   useEffect(() => {
     firebaseHandle.init();
     firebaseHandle
@@ -15,9 +14,9 @@ function App() {
           console.log(user)
         if (user) {
           console.log("Logged in");
-          db.where("email","==",result).get().then(function(querySnapshot){
-          querySnapshot.forEach(function(doc){Datastore.writeItem("user",doc.data())})}).catch(function(error){
-          console.log(error)})
+          firebaseHandle.getDBInstance("users").where("email","==",user.email).get().then(function(querySnapshot){
+            querySnapshot.forEach(function(doc){Datastore.writeItem("user",doc.data())})}).catch(function(error){
+            console.log("Natsu's error:",error)})
           NavigationService.navigate("inside");
         } else {
           console.log("Not logged in");
