@@ -14,9 +14,6 @@ function App() {
           console.log(user)
         if (user) {
           console.log("Logged in");
-          firebaseHandle.getDBInstance("users").where("email","==",user.email).get().then(function(querySnapshot){
-            querySnapshot.forEach(function(doc){Datastore.writeItem("user",doc.data())})}).catch(function(error){
-            console.log("error:",error)})
           NavigationService.navigate("inside");
         } else {
           console.log("Not logged in");
