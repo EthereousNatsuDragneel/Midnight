@@ -7,6 +7,7 @@ import forgotPassword from "../screens/forgot/forgot";
 import Home from "../screens/home/home";
 import Store from "../screens/store/store";
 import Profile from "../screens/profile/profile";
+import Game from '../screens/game/game'
 const stack = createStackNavigator(
   {
     forgot: { screen: forgotPassword },
@@ -25,7 +26,7 @@ const Homie = createBottomTabNavigator(
 );
 export default createAppContainer(
   createSwitchNavigator(
-    { auth: stack, inside: Homie },
+    { auth: stack, inside: Homie,Game:Game },
     { initialRouteName: "auth" }
   )
 );
