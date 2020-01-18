@@ -20,6 +20,6 @@ if(user.attempted==[]){setQNow(qNow.concat(totalQ[x]))
 i++}
 if(i>=10){i=0
 break}}
-navigation.navigate("Game")},[])
+navigation.navigate("Game",{set:qNow})},[])
 return{startFreeGame}}
 export default useHome
