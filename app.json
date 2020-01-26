@@ -25,8 +25,13 @@
     ],
     "ios": {
       "supportsTablet": true
-    },"android": {
+    },
+    "android": {
       "package": "host.exp.McBeth",
-      "versionCode": 7}
-  }
+      "versionCode": 7
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "Midnight",
+  "name": "Mignight"
 }
