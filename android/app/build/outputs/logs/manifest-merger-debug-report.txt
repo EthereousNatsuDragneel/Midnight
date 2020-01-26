@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/himanshujain/git/Midnight/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/himanshujain/git/Midnight/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/himanshujain/git/Midnight/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/343931696d800bdce839669e3f90ffe0/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] /Users/himanshujain/git/Midnight/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c7fd219c40ad5a28112c6a9266eb343b/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /Users/himanshujain/git/Midnight/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/himanshujain/git/Midnight/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/himanshujain/git/Midnight/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/himanshujain/git/Midnight/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/a42deff2d786365ab10d1c1f3e815286/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1de37d0034342dd15b8603ba0623a0bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/74d68b4e4802d384a1d692d14c154a92/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f4ed2592f155d890d0e4073a7d2cdd04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/de3a8c2946a0edab4a6ed11ea5936be6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0bc0fa9f43bd74824b9764872658f1a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4ff78c89d9f116f4f734cf29e11f2e94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/87feaf92482617787650cd937f27edc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a635fb47f43b5293e2b643d93e01aa2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/150ae95c9a0a52bc8eaf116fc82440c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fa2a0d68581c756421f19f05465ce8bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2e0dee85989355d6f221e572293f6327/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d40923758b520bd6ac9151ce205e669/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/422c2f17ef715217efc1b1cae548fda4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3337c239d63bce58cc5f405b04854e08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/84565617c2a3cd013a91019091514b05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ed9f33dbbe86ae0534572f8b5219e853/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/2d4a2ce64320b0a8c9e6982835f4a09d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b91fae836c80560aa5f60f2efc0a6636/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d0761c8cee5e13887cae8c068f0d10f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2e6244440f881a8a0febb7097753aede/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/fdab856edccc6ab7e32e37a09a38d06e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/aea2714825e84e2a72e5c08740e1d30b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cc2721a5deeb9a6547a8e3febcc986c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/e7591c809ee7811f0492894d256df04d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7d35c9d1431f14e0ade94505724af29e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bcc7d40ebf2430917ca6842053f38441/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5295b3af9edbb1a3d2dca9ac2673ab92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/967eac3d3c1b5144d5891d2bf2f2cf3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/72a8e4180b22e9904dc5e06916ea1c0b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/e08b5e83bd1b4c787f7853ef4f6f66a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/fe5d0c88931de1f227ff62e757af3020/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/ff8fb4084922a26dcd5e31c42971bdf4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/07b5623c0a4fa27d2d8ec343efa7ef81/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/115e4a7ca76138ba34cd0ee92618c7b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2237cf6a87106144f6f70a438ae0af60/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/8c28176e6b4b076614ae962f3e52efff/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/343931696d800bdce839669e3f90ffe0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/343931696d800bdce839669e3f90ffe0/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/74d68b4e4802d384a1d692d14c154a92/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/74d68b4e4802d384a1d692d14c154a92/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/2d4a2ce64320b0a8c9e6982835f4a09d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/2d4a2ce64320b0a8c9e6982835f4a09d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b91fae836c80560aa5f60f2efc0a6636/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b91fae836c80560aa5f60f2efc0a6636/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/72a8e4180b22e9904dc5e06916ea1c0b/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/72a8e4180b22e9904dc5e06916ea1c0b/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2237cf6a87106144f6f70a438ae0af60/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2237cf6a87106144f6f70a438ae0af60/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/2d4a2ce64320b0a8c9e6982835f4a09d/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.mignight.MainActivity
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/himanshujain/git/Midnight/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/himanshujain/git/Midnight/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/himanshujain/git/Midnight/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/himanshujain/git/Midnight/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/himanshujain/git/Midnight/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/himanshujain/git/Midnight/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/343931696d800bdce839669e3f90ffe0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/343931696d800bdce839669e3f90ffe0/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/himanshujain/git/Midnight/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/himanshujain/git/Midnight/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c7fd219c40ad5a28112c6a9266eb343b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c7fd219c40ad5a28112c6a9266eb343b/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /Users/himanshujain/git/Midnight/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/himanshujain/git/Midnight/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/himanshujain/git/Midnight/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/himanshujain/git/Midnight/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/himanshujain/git/Midnight/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/himanshujain/git/Midnight/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/himanshujain/git/Midnight/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/himanshujain/git/Midnight/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/himanshujain/git/Midnight/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/a42deff2d786365ab10d1c1f3e815286/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/a42deff2d786365ab10d1c1f3e815286/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1de37d0034342dd15b8603ba0623a0bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1de37d0034342dd15b8603ba0623a0bd/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/74d68b4e4802d384a1d692d14c154a92/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/74d68b4e4802d384a1d692d14c154a92/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f4ed2592f155d890d0e4073a7d2cdd04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f4ed2592f155d890d0e4073a7d2cdd04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/de3a8c2946a0edab4a6ed11ea5936be6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/de3a8c2946a0edab4a6ed11ea5936be6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0bc0fa9f43bd74824b9764872658f1a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0bc0fa9f43bd74824b9764872658f1a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4ff78c89d9f116f4f734cf29e11f2e94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4ff78c89d9f116f4f734cf29e11f2e94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/87feaf92482617787650cd937f27edc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/87feaf92482617787650cd937f27edc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a635fb47f43b5293e2b643d93e01aa2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a635fb47f43b5293e2b643d93e01aa2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/150ae95c9a0a52bc8eaf116fc82440c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/150ae95c9a0a52bc8eaf116fc82440c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fa2a0d68581c756421f19f05465ce8bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fa2a0d68581c756421f19f05465ce8bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2e0dee85989355d6f221e572293f6327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2e0dee85989355d6f221e572293f6327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d40923758b520bd6ac9151ce205e669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d40923758b520bd6ac9151ce205e669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/422c2f17ef715217efc1b1cae548fda4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/422c2f17ef715217efc1b1cae548fda4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3337c239d63bce58cc5f405b04854e08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3337c239d63bce58cc5f405b04854e08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/84565617c2a3cd013a91019091514b05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/84565617c2a3cd013a91019091514b05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ed9f33dbbe86ae0534572f8b5219e853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ed9f33dbbe86ae0534572f8b5219e853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/2d4a2ce64320b0a8c9e6982835f4a09d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/2d4a2ce64320b0a8c9e6982835f4a09d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b91fae836c80560aa5f60f2efc0a6636/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b91fae836c80560aa5f60f2efc0a6636/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d0761c8cee5e13887cae8c068f0d10f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d0761c8cee5e13887cae8c068f0d10f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2e6244440f881a8a0febb7097753aede/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2e6244440f881a8a0febb7097753aede/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/fdab856edccc6ab7e32e37a09a38d06e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/fdab856edccc6ab7e32e37a09a38d06e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/aea2714825e84e2a72e5c08740e1d30b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/aea2714825e84e2a72e5c08740e1d30b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cc2721a5deeb9a6547a8e3febcc986c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cc2721a5deeb9a6547a8e3febcc986c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/e7591c809ee7811f0492894d256df04d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/e7591c809ee7811f0492894d256df04d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7d35c9d1431f14e0ade94505724af29e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7d35c9d1431f14e0ade94505724af29e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bcc7d40ebf2430917ca6842053f38441/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bcc7d40ebf2430917ca6842053f38441/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5295b3af9edbb1a3d2dca9ac2673ab92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5295b3af9edbb1a3d2dca9ac2673ab92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/967eac3d3c1b5144d5891d2bf2f2cf3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/967eac3d3c1b5144d5891d2bf2f2cf3a/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/72a8e4180b22e9904dc5e06916ea1c0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/72a8e4180b22e9904dc5e06916ea1c0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/e08b5e83bd1b4c787f7853ef4f6f66a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/e08b5e83bd1b4c787f7853ef4f6f66a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/fe5d0c88931de1f227ff62e757af3020/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/fe5d0c88931de1f227ff62e757af3020/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/ff8fb4084922a26dcd5e31c42971bdf4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/ff8fb4084922a26dcd5e31c42971bdf4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/07b5623c0a4fa27d2d8ec343efa7ef81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/07b5623c0a4fa27d2d8ec343efa7ef81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/115e4a7ca76138ba34cd0ee92618c7b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/115e4a7ca76138ba34cd0ee92618c7b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2237cf6a87106144f6f70a438ae0af60/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2237cf6a87106144f6f70a438ae0af60/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/8c28176e6b4b076614ae962f3e52efff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/himanshujain/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/8c28176e6b4b076614ae962f3e52efff/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/himanshujain/git/Midnight/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/himanshujain/git/Midnight/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
