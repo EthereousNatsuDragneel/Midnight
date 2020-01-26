@@ -6,8 +6,8 @@ const [qNow,setQNow]=useState(null)
 var i=0
 let j=0
 const startFreeGame=useCallback(async ()=>{
-const responseData=await firebaseHandle.getDBInstance("Questions").doc("set").get().then(function(querySnapshot){
-querySnapshot.forEach(function(doc){setTotalQ(doc.data())})})
+const responseData=await firebaseHandle.getDBInstance("Questions").doc("set").get().then(function(documentSnapshot){
+setTotalQ(documentSnapshot.data())})
 const responseData2=await firebaseHandle.getDBInstance("users").where("email","==",firebaseHandle.getInstance().auth().currentUser.email).get().then(function(querySnapshot){
 querySnapshot.forEach(function(doc){setUser(doc.data())})})
 /*while(i<10){let x=Math.floor(Math.random()*100)
