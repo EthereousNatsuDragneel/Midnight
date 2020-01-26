@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component,useCallback,useState } from "react";
 import {TouchableOpacity,View, Text } from "react-native";
 import useHome from './useHome'
 function Home(props){const {startFreeGame}=useHome(props)

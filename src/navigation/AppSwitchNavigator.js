@@ -16,6 +16,7 @@ const stack = createStackNavigator(
   },
   { initialRouteName: "login" }
 );
+const play=createStackNavigator({FreeGame:{screen:Game}},{initialRouteName:'FreeGame'})
 const Homie = createBottomTabNavigator(
   {
     home: { screen: Home },
@@ -26,7 +27,7 @@ const Homie = createBottomTabNavigator(
 );
 export default createAppContainer(
   createSwitchNavigator(
-    { auth: stack, inside: Homie,Game:Game },
+    { auth: stack, inside: Homie,Game:play },
     { initialRouteName: "auth" }
   )
 );
