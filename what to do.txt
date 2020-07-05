@@ -1,4 +1,0 @@
-1.  Try to install the .apk file into your android device and see if it works.
-2.  Irrespective of the outcome of point 1, open cmd in this folder and type the following command:
-java -jar "bundletool.jar" build-apks --bundle=App.aab --output=App.apks
-See if it works
