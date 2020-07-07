@@ -1,7 +1,7 @@
 import {useMemo,useState,useCallback} from "react";
 import firebaseHandle from "../../utils/firebaseHandle";
 function useSignup({ navigation }){
-const [user,setUser]=useState({name: "",realName: "",type: "Cook",email: "",password: "",cnfPassword: ""});
+const [user,setUser]=useState({name: "",realName: "",type: "Teacher",email: "",password: "",cnfPassword: ""});
 const [err,setErr]=useState("")
 const db=useMemo(()=>firebaseHandle.getDBInstance("users"),[])
 const universeDb=useMemo(()=>firebaseHandle.getDBInstance("universe"),[])

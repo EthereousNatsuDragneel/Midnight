@@ -3,8 +3,8 @@ import useSignup from "./useSignup";
 import {Text, View, TouchableOpacity, TextInput } from "react-native";
 function signup(props){const {err,setErr,user, updateUser, signupHandle } = useSignup(props);
 const [show,setShow]=useState(true)
-const toggleType=useCallback(()=>{if(user.type=="Cook"){updateUser("type","User")}
-else{updateUser("type","Cook")}},[])
+const toggleType=useCallback(()=>{if(user.type=="Cook"){updateUser("type","Student")}
+else{updateUser("type","Teacher")}},[])
 const toggle=useCallback(()=>{if(show){setShow(false)}
 else{setShow(true)}},[])
 return(<View style={{flex:1,justifyContent:"center",alignItems:"center",backgroundColor:"white"}}>
@@ -21,5 +21,5 @@ return(<View style={{flex:1,justifyContent:"center",alignItems:"center",backgrou
 <TouchableOpacity onPress={()=>{if(user.name==""){setErr("You must provide your name")}
 else if(user.password===user.cnfPassword){signupHandle()}
 else{setErr("The passwords don't match!")}}}><Text style={{color:"red"}}>Sign Up</Text></TouchableOpacity>
-<Text style={{fontSize:40,color:"red"}}>FoodGate</Text></View>);}
+<Text style={{fontSize:40,color:"red"}}>teachgate</Text></View>);}
 export default signup;

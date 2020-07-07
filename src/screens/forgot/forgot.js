@@ -11,6 +11,6 @@ return(<View style={{flex:1,justifyContent:"center",alignItems:"center",backgrou
 <Text style={{color:"red"}}>{err}</Text>
 <TextInput style={{backgroundColor:"white",color:"red"}} value={user.email} placeholderTextColor="red" placeholder="Email:" onChangeText={text=>updateUser("email",text)} autoCapitalize="none" keyboardType="email-address"/>
 <TouchableOpacity onPress={sendMail}><Text style={{color:"red"}}>Send password reset email</Text></TouchableOpacity>
-<Text style={{color:"red",fontSize:40}}>FoodGate</Text>
+<Text style={{color:"red",fontSize:40}}>teachgate</Text>
 </View>)}
 export default forgotPassword

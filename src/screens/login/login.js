@@ -60,7 +60,7 @@ function login(props) {
       <TouchableOpacity onPress={goToSignup}>
         <Text style={{ color: "red" }}>Sign up</Text>
       </TouchableOpacity>
-      <Text style={{ fontSize: 40, color: "red" }}>FoodGate</Text>
+      <Text style={{ fontSize: 40, color: "red" }}>teachgate</Text>
     </View>
   );
 }

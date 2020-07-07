@@ -1,5 +1,0 @@
-Sign up:
-1.  Have displayname (ID) separate from real name
-2.  Cooking account/customer account
-3.  Address
-4.  make a database of email ids and another for all users
